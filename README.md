@@ -1,12 +1,9 @@
-# Pomodairo
-
-> The orginal code is is orphaned. This is a clone taken from
-
-> https://code.google.com/archive/p/pomodairo/
-    
+> The orginal project is is orphaned. This is a clone taken from
+> https://code.google.com/archive/p/pomodairo/    
 > __Note:__ The issues database at https://code.google.com/archive/p/pomodairo/issues could not be moved from Google.
 
 
+# Pomodairo
 
 An Air application for working with the Pomodoro technique
 
