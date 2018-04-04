@@ -27,17 +27,18 @@ There is an FAQ page started [here](https://github.com/alecthegeek/pomodairo/wik
 
 
 ## Screenshots
+
 Pomodairo Client mini view (version 1.9):
 
-http://pomodairo.googlecode.com/svn/trunk/etc/pomodairo_mini.png
+![](https://github.com/alecthegeek/pomodairo/blob/master/etc/pomodairo_mini.png)
 
 Pomodairo Client (version 1.7):
 
-http://pomodairo.googlecode.com/svn/trunk/etc/pomodairo.png
+![](https://github.com/alecthegeek/pomodairo/blob/master/etc/pomodairo.png)
 
 Pomodairo Client with tasklist (version 1.7):
 
-http://pomodairo.googlecode.com/svn/trunk/etc/pomodairo_tasklist.png
+![](https://github.com/alecthegeek/pomodairo/blob/master/etc/pomodairo_tasklist.png)
 
 ## Release Notes
 Version 1.9
